@@ -1,0 +1,31 @@
+html{
+    background: url(https://images.alphacoders.com/598/598655.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Cutive', serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 50px 0;
+    background-color: lightgrey;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    font-size: larger;
+}
+
+.box{
+    border-style: solid;
+    width: 940px;
+    background-color: lightgrey;
+    margin: 200px;
+}
